@@ -1,4 +1,4 @@
-## 🧠 Python/C++ Programmer | 🤖 Machine Learning Enthusiast | 🐧 Data Science Learner
+## 🧠 Python/C++ Programmer | 🤖 Machine Learning & Agentic AI Enthusiast | 🐧 Linux & Data Science Learner
 
 ---
 
@@ -18,6 +18,13 @@
 
 ---
 
+#### 🧩 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
 #### 📊 Data Science & Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,3 +35,12 @@
 #### 🧠 Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
+#### 🪄 Agentic AI & Automation Tools
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge&logo=pinecone&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF4B4B?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6FD8?style=for-the-badge&logo=heart&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
