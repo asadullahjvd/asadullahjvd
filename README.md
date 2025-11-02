@@ -1,4 +1,4 @@
-## 🧠 Python/C++ Programmer | 🤖 Machine Learning & Agentic AI Enthusiast | 🐧 Linux & Data Science Learner
+## 🧠 Python/C++ Programmer | 🤖 Machine Learning | Agentic AI  | 🐧 Data Science Learner
 
 ---
 
@@ -33,13 +33,13 @@
 ---
 
 #### 🧠 Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=ai&logoColor=white)
+*(Coming soon...)*
 
 ---
 
 #### 🪄 Agentic AI & Automation Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=ai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF4B4B?style=for-the-badge&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF6FD8?style=for-the-badge&logo=heart&logoColor=white)
