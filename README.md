@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Asadullah%20Javed-AI%2FML%20Engineer-007BFF?style=for-the-badge&logoColor=white" />
-</div>
-
-<h3 align="center">🤖 Building intelligent AI systems from data to production 🚀</h3>
-
+<h1 align="center">Abdullah Javed</h1>
+<h3 align="center">AI / ML Engineer — LLM • RAG • MLOps • Automation</h3>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
+</p>
 <p align="center">
   <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/asadullahjvd" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
