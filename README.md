@@ -1,14 +1,15 @@
-<h1 align="center">Asadullah Javed</h1>
+<h1 align="center">Abdullah Javed</h1>
 <h3 align="center">AI / ML Engineer — LLM • RAG • MLOps • Automation</h3>
- 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/asadullahjvd" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/AI%2FML_ENGINEER-0F766E?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/asadullah-javed-b0057431a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asadullahjvd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
@@ -18,7 +19,7 @@
 
 - 🎓 BSCS student at **PUCIT** (Punjab University College of Information Technology), 2023 – present
 - 🧠 I design and ship **AI Agents, RAG pipelines, and ML systems** — from data to deployment
-- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching, plus **Deep Learning & NLP** fundamentals (RNNs, LSTMs[...]
+- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching, plus **Deep Learning & NLP** fundamentals (RNNs, LSTMs, Transformers)
 - 💼 Open to **AI/ML Engineer roles** in Lahore and **remote/freelance work** on Upwork
 - ⚡ Fun fact: I prefer shipping working code over writing documentation first
 
@@ -97,7 +98,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Ge[...]
+| **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Gemini, Docker |
 | **AI Career Mentor** | Conversational career guidance assistant with resume-aware retrieval and live job search | LangChain, Groq/LLaMA3, FAISS, JSearch API, Streamlit |
 | **Lead Generation Agent** | Free, keyless local-business discovery agent with resilient mirror-fallback scraping | LangChain, Groq (Llama-3.3-70B), Overpass/OSM |
 | **Boston Real Estate Price Predictor** | Regression model with engineered features to predict housing prices | XGBoost, Scikit-learn, Feature Engineering |
@@ -108,37 +109,46 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=asadullahjvd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahjvd&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahjvd&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahjvd&theme=tokyo-night&hide_border=true" />
-</div>
+</p>
 
-### 🎯 Contribution Snake
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile" />
+</p>
 
-<div align="center">
-  <img src="https://github.com/asadullahjvd/asadullahjvd/blob/output/github-contribution-grid-snake.svg" alt="3D contribution snake" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asadullahjvd/asadullahjvd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
+  <img src="https://raw.githubusercontent.com/asadullahjvd/asadullahjvd/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
+</p>
+
+> ⚠️ **These two widgets need one-time setup** — they're generated by GitHub Actions, not live badges, so they won't render until you add the workflow files and run them once:
+>
+> 1. In your `asadullahjvd/asadullahjvd` repo, create `.github/workflows/profile-3d.yml` and `.github/workflows/snake.yml` (I've attached both — just copy them in as-is).
+> 2. Go to the **Actions** tab of that repo → select each workflow → click **Run workflow** to trigger it manually the first time.
+> 3. The 3D workflow commits `profile-3d-contrib/profile-night-rainbow.svg` straight to your `main` branch. The snake workflow pushes its SVGs to a new `output` branch — GitHub creates that branch automatically the first time the workflow runs.
+> 4. After each runs successfully (check the green checkmark in Actions), refresh your profile — both images will appear. After that, they auto-update daily on the schedule in each workflow file.
 
 ---
 
 ### 📫 Let's Connect
 
-<div align="center">
+<p align="center">
   <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/asadullahjvd" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/asadullah-javed-b0057431a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asadullahjvd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-</div>
+</p>
 
-<div align="center"><i>⭐️ From <a href="https://github.com/asadullahjvd">asadullahjvd</a> — thanks for stopping by!</i></div>
+<p align="center"><i>⭐️ From <a href="https://github.com/asadullahjvd">asadullahjvd</a> — thanks for stopping by!</i></p>
