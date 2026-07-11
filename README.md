@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:0f766e,100:1e3a8a&height=200&section=header&text=Asadullah%20Javed&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20/%20ML%20Engineer%20—%20LLM%20•%20RAG%20•%20MLOps%20•%20Automation&descAlignY=62&descSize=18&animation=fadeIn" alt="header banner" width="100%"/>
 </p>
-<h3 align="center">AI / ML Engineer — LLM • RAG • MLOps • Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
