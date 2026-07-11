@@ -1,4 +1,4 @@
-<h1 align="center">Abdullah Javed</h1>
+<h1 align="center">Asadullah Javed</h1>
 <h3 align="center">AI / ML Engineer — LLM • RAG • MLOps • Automation</h3>
 
 <p align="center">
