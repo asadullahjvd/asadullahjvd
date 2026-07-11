@@ -1,26 +1,25 @@
-<h1 align="center">Hi there, I'm Asadullah 👋</h1>
-
-<h3 align="center">🤖 AI/ML Engineer | 🔗 LangChain & RAG Systems | 🐍 Python & C++ | 📊 Data Science</h3>
+<h1 align="center">Abdullah Javed</h1>
+<h3 align="center">AI / ML Engineer — LLM • RAG • MLOps • Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://asadullahjvd.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.upwork.com" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/AI%2FML_ENGINEER-0F766E?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/asadullah-javed-b0057431a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 BS Software Engineering student, University of Sahiwal (2022–2026)
+- 🎓 BSCS student at **PUCIT** (Punjab University College of Information Technology), 2023 – present
 - 🧠 I design and ship **AI Agents, RAG pipelines, and ML systems** — from data to deployment
-- 🛠️ Currently building an **AI Sales & Lead Generation Platform** — 10 specialized LangChain agents automating lead discovery, research, scoring, and outreach
-- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching
+- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching, plus **Deep Learning & NLP** fundamentals (RNNs, LSTMs, Transformers)
 - 💼 Open to **AI/ML Engineer roles** in Lahore and **remote/freelance work** on Upwork
 - ⚡ Fun fact: I prefer shipping working code over writing documentation first
 
@@ -47,6 +46,19 @@
 <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElevenLabs-FF4B4B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+**Deep Learning & NLP**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural_Networks-4B0082?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RNN%2FLSTM-2E8B57?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-005571?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Machine Learning & MLOps**
@@ -76,6 +88,7 @@
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
@@ -86,15 +99,13 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Gemini, Docker |
-| **AI Sales & Lead Generation Platform** | 10-agent LangChain pipeline for lead discovery → scoring → personalized outreach | LangChain, Groq, Overpass/OSM API |
 | **AI Career Mentor** | Conversational career guidance assistant with resume-aware retrieval and live job search | LangChain, Groq/LLaMA3, FAISS, JSearch API, Streamlit |
 | **Lead Generation Agent** | Free, keyless local-business discovery agent with resilient mirror-fallback scraping | LangChain, Groq (Llama-3.3-70B), Overpass/OSM |
 | **Boston Real Estate Price Predictor** | Regression model with engineered features to predict housing prices | XGBoost, Scikit-learn, Feature Engineering |
 | **Laptop Price Predictor** | Deployed ML app estimating laptop prices from specs | LightGBM, Streamlit |
-| **ScholarIntell** | Final Year Project — intelligent academic assistant, 52-page technical report | Python, Node.js/docx |
 | **NeuroAsad** | Automated AI chatbot workflow | n8n, Gemini API |
 
-📌 *See the full list on my [portfolio](https://asadullahjvd.github.io) and [GitHub](https://github.com/asadullahjvd).*
+📌 *See the full list on my [portfolio](https://asadullahjvd.github.io/portfolio/) and [GitHub](https://github.com/asadullahjvd).*
 
 ---
 
@@ -124,8 +135,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://asadullahjvd.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://asadullahjvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/asadullahjvd" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asadullah-javed-b0057431a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
