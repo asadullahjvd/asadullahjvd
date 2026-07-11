@@ -1,46 +1,132 @@
-## 🧠 Python/C++ Programmer | 🤖 Machine Learning | Agentic AI  | 🐧 Data Science Learner
+<h1 align="center">Hi there, I'm Asadullah 👋</h1>
+
+<h3 align="center">🤖 AI/ML Engineer | 🔗 LangChain & RAG Systems | 🐍 Python & C++ | 📊 Data Science</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+LangChain;RAG+%2B+LLM+Systems+Engineer;Turning+Ideas+into+Production+ML;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://asadullahjvd.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.upwork.com" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-### ⚙️ Skills & Tools
+### 🚀 About Me
 
-#### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-#### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- 🎓 BS Software Engineering student, University of Sahiwal (2022–2026)
+- 🧠 I design and ship **AI Agents, RAG pipelines, and ML systems** — from data to deployment
+- 🛠️ Currently building an **AI Sales & Lead Generation Platform** — 10 specialized LangChain agents automating lead discovery, research, scoring, and outreach
+- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching
+- 💼 Open to **AI/ML Engineer roles** in Lahore and **remote/freelance work** on Upwork
+- ⚡ Fun fact: I prefer shipping working code over writing documentation first
 
 ---
 
-#### 🧩 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**AI / LLM / Agentic Engineering**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+**Machine Learning & MLOps**
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-025E73?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Evidently_AI-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+**Backend & Deployment**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-#### 📊 Data Science & Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+### 🌟 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Gemini, Docker |
+| **AI Sales & Lead Generation Platform** | 10-agent LangChain pipeline for lead discovery → scoring → personalized outreach | LangChain, Groq, Overpass/OSM API |
+| **AI Career Mentor** | Conversational career guidance assistant with resume-aware retrieval and live job search | LangChain, Groq/LLaMA3, FAISS, JSearch API, Streamlit |
+| **Lead Generation Agent** | Free, keyless local-business discovery agent with resilient mirror-fallback scraping | LangChain, Groq (Llama-3.3-70B), Overpass/OSM |
+| **Boston Real Estate Price Predictor** | Regression model with engineered features to predict housing prices | XGBoost, Scikit-learn, Feature Engineering |
+| **Laptop Price Predictor** | Deployed ML app estimating laptop prices from specs | LightGBM, Streamlit |
+| **ScholarIntell** | Final Year Project — intelligent academic assistant, 52-page technical report | Python, Node.js/docx |
+| **NeuroAsad** | Automated AI chatbot workflow | n8n, Gemini API |
+
+📌 *See the full list on my [portfolio](https://asadullahjvd.github.io) and [GitHub](https://github.com/asadullahjvd).*
 
 ---
 
-#### 🧠 Machine Learning
-*(Coming soon...)*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asadullahjvd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahjvd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahjvd&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahjvd&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/asadullahjvd/asadullahjvd/blob/output/github-contribution-grid-snake.svg" alt="3D contribution profile" />
+</p>
+
+> 💡 **Note on the widgets above:** the stats/streak/language/activity cards update automatically from your public GitHub activity — no setup needed beyond putting them in your profile README (`asadullahjvd/asadullahjvd`). The 3D contribution calendar (like the isometric skyline in your screenshot) is generated by the **[github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)** GitHub Action, which needs a small workflow file added to your profile repo to generate and commit the SVG daily — I can write that workflow file for you if you want the exact 3D skyline + radar chart look from your screenshot.
 
 ---
 
-#### 🪄 Agentic AI & Automation Tools
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=ai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge&logo=pinecone&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF4B4B?style=for-the-badge&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6FD8?style=for-the-badge&logo=heart&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://asadullahjvd.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/asadullahjvd" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/asadullahjvd">asadullahjvd</a> — thanks for stopping by!</i></p>
