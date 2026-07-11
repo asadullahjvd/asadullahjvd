@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Abdullah+Javed;AI+%2F+ML+Engineer;LLM+•+RAG+•+MLOps+•+Automation" alt="Abdullah Javed - AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/Asadullah%20Javed-AI%2FML%20Engineer-007BFF?style=for-the-badge&logoColor=white" />
 </div>
 
 <h3 align="center">🤖 Building intelligent AI systems from data to production 🚀</h3>
@@ -18,7 +18,7 @@
 
 - 🎓 BSCS student at **PUCIT** (Punjab University College of Information Technology), 2023 – present
 - 🧠 I design and ship **AI Agents, RAG pipelines, and ML systems** — from data to deployment
-- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching, plus **Deep Learning & NLP** fundamentals (RNNs, LSTMs, Transformers)
+- 📚 Deepening expertise across the full **LangChain** ecosystem: LCEL, Runnables, structured output, memory, RAG, agents, callbacks & caching, plus **Deep Learning & NLP** fundamentals (RNNs, LSTMs[...]
 - 💼 Open to **AI/ML Engineer roles** in Lahore and **remote/freelance work** on Upwork
 - ⚡ Fun fact: I prefer shipping working code over writing documentation first
 
@@ -97,7 +97,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Gemini |
+| **[DocNav](https://github.com/asadullahjvd)** | Hierarchical multimodal RAG app that captions tables/charts and answers document questions | FastAPI, ChromaDB, SQLite, Sentence-Transformers, Ge[...]
 | **AI Career Mentor** | Conversational career guidance assistant with resume-aware retrieval and live job search | LangChain, Groq/LLaMA3, FAISS, JSearch API, Streamlit |
 | **Lead Generation Agent** | Free, keyless local-business discovery agent with resilient mirror-fallback scraping | LangChain, Groq (Llama-3.3-70B), Overpass/OSM |
 | **Boston Real Estate Price Predictor** | Regression model with engineered features to predict housing prices | XGBoost, Scikit-learn, Feature Engineering |
